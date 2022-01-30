@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_food_options_selects",
+  "info": {
+    "displayName": "select",
+    "icon": "angle-double-right",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "options": {
+      "displayName": "selectOption",
+      "type": "component",
+      "repeatable": true,
+      "component": "food-options.select-option"
+    },
+    "default": {
+      "type": "component",
+      "repeatable": false,
+      "component": "food-options.select-option"
+    }
+  }
+}

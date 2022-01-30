@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_food_prices",
+  "info": {
+    "displayName": "price",
+    "icon": "ad",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "price": {
+      "type": "float"
+    },
+    "sale_price": {
+      "type": "float"
+    }
+  }
+}

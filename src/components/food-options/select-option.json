@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_food_options_select_options",
+  "info": {
+    "displayName": "selectOption",
+    "icon": "angle-double-left",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "price": {
+      "type": "float"
+    },
+    "name": {
+      "type": "string",
+      "unique": false,
+      "required": false
+    }
+  }
+}
